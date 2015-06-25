@@ -1,7 +1,7 @@
 window.onload = changeSlide
-var images = ['img/zankyou1.jpg',
-'img/zankyou2.jpg',
-'img/zankyou3.jpg',
+var images = ['img/Zankyou1.jpg',
+'img/Zankyou2.jpg',
+'img/Zankyou3.jpg',
 'img/Zankyou4.jpg'
 ] ;
 
