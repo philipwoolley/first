@@ -24,6 +24,14 @@ text-decoration: none;
 a:hover {
 text-decoration: underline;
 }
-.invis{
-visibility: hidden;
+
+
+.menu-bar nav{
+background-color: blue
+}
+
+
+.menu-bar nav button:hover{
+color: white
+
 }

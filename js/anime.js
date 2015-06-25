@@ -19,3 +19,4 @@ function changeSlide(number) {
 	img.src = images[count];
 	setTimeout (changeSlide, delay);
 }
+
